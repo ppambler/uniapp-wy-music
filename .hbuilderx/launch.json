@@ -2,7 +2,6 @@
   // launchtype项可配置值为local或remote, local代表前端连本地云函数，remote代表前端连云端云函数
     "version": "0.0",
     "configurations": [{
-<<<<<<< HEAD
      	"default" : 
      	{
      		"launchtype" : "local"
@@ -13,12 +12,5 @@
      	},
      	"type" : "uniCloud"
      }
-=======
-            "type": "uniCloud",
-            "default": {
-                "launchtype": "local"
-            }
-        }
->>>>>>> 169aa268565a132fbe3b647d2b326a7ae33c42bc
     ]
 }
